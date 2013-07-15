@@ -1,0 +1,3 @@
+127.0.0.1 	wap.casee.cn
+127.0.0.1 	www.umeng.co
+127.0.0.1 	www.umeng.com
